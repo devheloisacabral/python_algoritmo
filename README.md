@@ -7,7 +7,7 @@ Este repositório foi criado para armazenar e organizar códigos de resolução 
 1. **Algoritmo-py/**
     - Este é o diretório principal que contém os diferentes módulos e categorias de algoritmos.
 
-    - **menu/**
+    - **Menus/**
         - Subdiretório destinado à implementação de algoritmos relacionados a menus e interações de usuário. Aqui, você pode encontrar códigos que envolvem a criação e manipulação de menus em Python.
 
     - **estruturas_simples/**
